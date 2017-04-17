@@ -1,2 +1,2 @@
 # bd2017
-Big data course (OVGU)
+Big data course (Otto-von-Guericke University)
